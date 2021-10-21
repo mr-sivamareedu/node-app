@@ -1,19 +1,13 @@
 {
-  "name": "oems",
-  "version": "1.0.0",
-  "description": "Online Employee Management System - 1.0.0",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "author": "Siva Mareedu",
-  "license": "ISC",
-  "dependencies": {
-    "bower": "^1.8.12",
-    "ejs": "^3.1.6",
-    "express": "^4.17.1"
-  },
-  "devDependencies": {
-    "ws": "3.3.2"
-  }
+ "name": "node-app",
+ "description": "hello jenkins test app",
+ "version": "0.0.1",
+ "private": true,
+ "dependencies": {
+    "express": "3.12.0"
+ },
+ "devDependencies": {
+    "mocha": "1.20.1",
+    "supertest": "0.13.0"
+ }
 }
