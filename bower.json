@@ -1,0 +1,20 @@
+{
+  "name": "oems",
+  "description": "Online Employee Management System - 1.0.0",
+  "main": "app.js",
+  "authors": [
+    "Siva Mareedu"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^5.1.2"
+  }
+}
